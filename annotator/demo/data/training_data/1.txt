@@ -1,0 +1,41 @@
+content	others	SMITHA ANNIE MATHEW
+header	knowledge	Objective:
+header	education	Education
+header	knowledge	Certifications
+header	experience	Experience:
+meta	experience	Environmental Engineer
+content	experience	Ambient Group Inc.
+content	experience	470 7th Avenue, 12th Floor
+content	experience	New York, NY 10018
+content	experience	(November 2015 to present)
+content	experience	Laboratory Assistant
+content	experience	Ambient Group, Inc.
+content	experience	470 7th Avenue, 12th Floor
+content	experience	New York, NY 10018
+content	experience	(May 2018 to present)
+content	experience	Human Resource Personnel
+content	experience	Margret Ultra Home Care
+content	experience	34 Beach Street , SI, NY 10304
+content	experience	(November 2012-November 2015)
+content	experience	Seeking  a  position  in  a  field  where  acquired  skills  and  education  can  be  utilized  toward
+content	experience	continued growth and advancement.
+content	experience	MS Chemical Engineering, Manhattan College, Riverdale, NY, February 2016.
+content	experience	B.Tech in Biotechnology and Biochemical Engineering, Mohandas College of Engineering
+content	experience	and Technology, Kerala, India, May 2012.
+content	experience	ID#15708957),
+content	experience	(LGBC)
+header	others	(Certification
+content	others	2D AutoCAD, Technical Institute of America, May 2018
+content	others	TPM  Concept  Certified(Certification  ID#  15708959),  Management  and  Strategy  Institute,
+content	others	May 2018
+content	others	5S  Concept  Certified  (Certification  ID#  15708958),  Management  and  Strategy  Institute,
+content	others	May 2018
+content	others	Six  Sigma  Lean  Green  Belt  Certified
+content	others	Management and Strategy Institute, May 2018
+header	knowledge	Duties & Responsibilities:
+content	knowledge	Perform  indoor  environmental  quality  (IEQ)  investigations  in  response  to  specific  client
+content	knowledge	concerns, such as investigation of Air Quality after a fire in a building.
+content	knowledge	Perform periodic IEQ monitoring.
+content	knowledge	Perform water quality investigations.
+content	knowledge	Assist  with  engineering  studies  such  as  HVAC  Airflow  Assessment,  Multi-point  Pressure
+content	knowledge	studies,  Pollutant  pathway  studies,  Green  building  commissioning  and  other  innovative

@@ -1,0 +1,41 @@
+header	education	EDUCATION
+content	others	3.25/4
+content	education	Koneru Lakshmaiah University, A.P, INDIA.                                       April-2013                                  Bachelor of
+content	education	Technology, Electronics and Communication Engineering.GPA-3/4
+meta	experience	Job Related Coursework: Fundamentals of Information Technology, Computer Programming Fundamentals.
+header	experience	WORK EXPEREICNE
+meta	experience	Jr. SQL Developer
+meta	experience	IDHASOFT Private Limited, Hyderabad, India       June 2013 - July 2014
+content	experience	Proficient in the use of SQL and T-SQL for developing complex stored procedures, efficient triggers, required user defined
+content	experience	functions, joins, creating indexes and indexed views for performance and  common table expressions for improved
+content	experience	readability
+content	experience	Experience in monitoring database and performance tuning using various native tools.
+content	experience	Good knowledge in ETL concepts of Data warehousing like dimensional and fact tables, star and snowflake schema,
+content	experience	physical and logical modeling.
+content	experience	Experience in using SQL Server Data Tools (SSDT) graphical user interface (GUI) to design SSIS packages, SSRS
+content	experience	Reports for data  applications
+content	experience	Developed various reports using MS SSRS 2012 and deployed them into the server.
+content	experience	Worked on developing and debugging MS SSIS 2012 Packages and good understanding in various transformations and
+content	experience	tasks in control flow and data flow operations.
+content	experience	Have good understanding in data analysis concepts in MS Excel like Macros, Pivot/Un pivot and lookup.
+content	experience	Internship-Trainee
+content	experience	Sun grace Solutions Private Limited, Hyderabad, India                                                             Jan 2013 - May 2013
+content	experience	Involved in scripting various SQL and T-SQL concepts like stored procedures, functions and various database objects.
+content	experience	Defined check constraints, rules, indexes and views based on business requirements.
+content	experience	Experience in query optimization and performance tuning.
+content	experience	Obtained experience in using SQL Server Management Studio (SSMS) to script SQL and T-SQL statements.
+meta	experience	TECHNICAL SKILLS
+content	experience	Databases & Query Languages: MS SQL Server 2012, Oracle 11g, T-SQL, PL/SQL ||Programming Languages: C, C#.||
+content	experience	ETL Tools: Microsoft SQL server Integration services (SSIS) ||Reporting Tools: SQL Server Reporting Services (SSRS)
+content	experience	||IDES And Other Tools: SQL Server Management Studio (SSMS), MS Visual Studio 2013, SQL Developer, SQL Server
+content	experience	Data Tools for Visual Studio 2013(SSDT), SQL*Plus ||Data Analysis Tools: Tableau 9.1
+content	experience	||Scripting Languages: UNIX ||Project Utilities: Microsoft Excel, Word, Power point.
+header	others	EXTRA CURRICULAR ACTIVITIES
+content	others	Participated in various national level paper presentations named CIENCIA, TORQUE.
+content	others	Participated in HYDRO FUEL CELL DESIGN in BITS  Pilani, India and certified by University of Cambridge, London for
+content	others	participating in the event.
+content	others	Volunteer for AIESEC Foundation and involved in organizing meetings for personal Development.
+content	others	Worked as a coordinator in SAMYAK, a national level tech fest in KL University.
+content	others	ROHITH N
+content	others	Address: 33 Arlene ct., Monmouth Junction,NJ-08852
+content	others	Email:rohith.nallam@outlook.com Mobile: 361-228-1425
